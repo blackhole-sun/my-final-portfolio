@@ -1,7 +1,7 @@
 {
   "homepage": "http://blackhole-sun.github.io/my-portfolio",
   "name": "vs-portfolio",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
